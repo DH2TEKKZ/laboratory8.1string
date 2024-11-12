@@ -1,0 +1,7 @@
+﻿  UnitTest8ю1string.cpp
+C:\laboratory works\laboratory8.1string\laboratory8.1string\laboratory8.1string.cpp(15,11): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/UnitTest8ю1string.cpp')
+  
+     Creating library C:\laboratory works\laboratory8.1string\x64\Debug\UnitTest8ю1string.lib and object C:\laboratory works\laboratory8.1string\x64\Debug\UnitTest8ю1string.exp
+LINK : warning LNK4232: name UnitTest8ю1string.dll contains non-ASCII characters, DLL may not load on system with ANSI codepage other than 1251
+  UnitTest8ю1string.vcxproj -> C:\laboratory works\laboratory8.1string\x64\Debug\UnitTest8ю1string.dll
